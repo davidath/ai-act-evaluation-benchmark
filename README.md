@@ -20,7 +20,6 @@ Each scenario includes:
 The `qa_pairs.json` file contains question-answer pairs related to EU AI Act.
 
 # Usage
-[Link to Guide](./docs/guide.md)
 To use this repository, follow the steps outlined in the [tutorial file](./documentation/tutorial.md). Ensure that all configurations are correctly set up before running the scripts.
 
 # License
