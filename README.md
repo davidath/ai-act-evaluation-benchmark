@@ -24,3 +24,14 @@ To use this repository, follow the steps outlined in the [tutorial file](./docum
 
 # License
 The JSON files are licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). The script code is provided under the Apache License 2.0.
+
+# Citation
+If you use this dataset, cite the [paper](https://arxiv.org/abs/2603.09435):
+```
+@article{Davvetas2026,
+  title   = {AI Act Evaluation Benchmark: An Open, Transparent, and Reproducible Evaluation Dataset for NLP and RAG Systems},
+  author  = {Athanasios Davvetas and Michael Papademas and Xenia Ziouvelou and Vangelis Karkaletsis},
+  journal = {arXiv preprint arXiv:2603.09435},
+  year    = {2026}
+}
+```
