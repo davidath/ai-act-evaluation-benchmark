@@ -35,3 +35,6 @@ If you use this dataset, cite the [paper](https://arxiv.org/abs/2603.09435):
   year    = {2026}
 }
 ```
+
+# Acknowledgements
+This work has been funded by the Digital Europe Programme (DIGITAL) under grant agreement No. 101146490 — DIGITAL-2022-CLOUD-AI-B-03. The inference of large language models was supported by computational time granted from the National Infrastructures for Research and Technology S.A. (GRNET) in the National HPC facility — ARIS — under project ID 018047 (pr018047 gpu).
